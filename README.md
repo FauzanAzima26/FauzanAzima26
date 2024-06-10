@@ -44,14 +44,19 @@ I'm a passionate developer proficient in HTML, CSS, JS, PHP, and JavaScript. I l
 
 ### 🏆 GitHub Trophies:
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FauzanAzima26&theme=radical" alt="GitHub trophies"/>
+</p>-->
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FauzanAzima26&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
 ---
 
 ### ✨ Top Languages:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FauzanAzima26&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
