@@ -1,4 +1,4 @@
-### Hi there, I'm [Fauzan Azima] 👋
+### Hi there, I'm Fauzan Azima 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
