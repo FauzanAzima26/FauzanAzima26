@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-I'm a passionate developer proficient in HTML, CSS, JS, PHP, and JavaScript. I love creating efficient and scalable software solutions. Here's a bit more about me:
+I'm a passionate developer proficient in HTML, CSS, JS, PHP, and JavaScript. I love creating efficient and scalable software solutions. Apart from coding, I enjoy exploring new technologies, reading tech blogs, and contributing to open-source projects. Connect with me on GitHub and let's collaborate on some exciting projects together!Here's a bit more about me:
 
 ---
 
