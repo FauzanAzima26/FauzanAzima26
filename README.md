@@ -20,7 +20,6 @@ I'm a passionate developer proficient in HTML, CSS, JS, PHP, and JavaScript. I l
 
 ### 📫 How to reach me:
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
   <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href="mailto:yourname@example.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
