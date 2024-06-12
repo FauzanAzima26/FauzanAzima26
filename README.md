@@ -1,7 +1,5 @@
 ### Hi there, I'm Fauzan Azima 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
 I'm a passionate developer proficient in HTML, CSS, JS, PHP, and JavaScript. I love creating efficient and scalable software solutions. Apart from coding, I enjoy exploring new technologies, reading tech blogs, and contributing to open-source projects. Connect with me on GitHub and let's collaborate on some exciting projects together!Here's a bit more about me:
 
 ---
@@ -21,8 +19,6 @@ I'm a passionate developer proficient in HTML, CSS, JS, PHP, and JavaScript. I l
 ### 📫 How to reach me:
 <p align="left">
   <a href="https://www.linkedin.com/in/fauzan-azima-3aba0b310/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="mailto:yourname@example.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
   <a href="https://www.instagram.com/fauzan_azima_26?igsh=M2p4ZXl4YWMyYWxw" target="_blank"><img     src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
 </p>
 
