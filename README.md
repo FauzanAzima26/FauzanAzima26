@@ -12,6 +12,7 @@ I'm a passionate developer proficient in HTML, CSS, JS, PHP, and JavaScript. I l
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
 </p>
 
 ---
